@@ -1,5 +1,0 @@
-主程在main.m，mkl分类和交叉验证
-数据准备包括：
-indcs.mat
-matlab_formated.mat（也可能是srcData.mat或matlab.mat，记不清了）
-clinical.mat

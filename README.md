@@ -1,6 +1,6 @@
 # Source Code for "Improve Glioblastoma Multiforme Prognosis Prediction by Using Feature Selection and Multiple Kernel Learning"
 
-This repository includes all codes for my paper. 
+This repository includes all codes for my paper [10.1109/TCBB.2016.2551745](http://ieeexplore.ieee.org/document/7448848/). 
 
 The code entrance is in `main.m`, which implements preprocess and cross-validation progress.
 Main learning and classification logic finished in `mklclassify.m`.
